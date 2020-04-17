@@ -2,8 +2,7 @@ let meditations = [
     {
         day: 0,
         introduction:
-        `<h3>--Introduction--</h3>
-        <p>I’m inviting you all to participate in a group challenge of practicing 
+        `<p>I’m inviting you all to participate in a group challenge of practicing 
         an abundance consciousness, changing your thinking to allow you to get more of what you 
         really want in life, whether it’s love, money, health or opportunity, for 21 days. 
         I’ve been participating in a separate group and this is part of my assignment. 
@@ -55,38 +54,33 @@ let meditations = [
         Every day there will be a published task, affirmation of the day, a link to a Deepak Chopra 
         meditation.</p>`,
         task: 
-        `<h3>--Task--</h3>
-        <p>If you read all the rules and agree to follow them, please write in the comment "Day 0 done."</p>
+        `<p>If you read all the rules and agree to follow them, please write in the comment "Day 0 done."</p>
         <p>I also recommend writing the phrase in a notebook and return to it several times, the more the 
         better.</p>
         <p>Mahatma Gandhi taught us to remember our thoughts generate words, words generate actions, 
         actions generate habits, habits generate character, and character breeds destiny.</p>`,
         phrase: 
-        `<h3>--Phrase--</h3>
-        <strong>Starting today, I constantly attract abundance with my thoughts.</strong><br>
-        This should also be written in your notebook and remembered during the day as often as possible.`,
+        `<p><strong>Starting today, I constantly attract abundance with my thoughts.</strong><br>
+        This should also be written in your notebook and remembered during the day as often as possible.</p>`,
         meditation:'',
         meditationURL:'',
         recap:
-        `<h3>--Recap--</h3><ol><li>Read all the rules.<br>
-        <li>Write the phrase of the day in your notebook:<br>
-        "Starting today, I constantly attract abundance with my thoughts."<br>
-        Remember it during the day.</li>
-        <li>Comment "Day 0 done in the group."</li></ol>`
+        `<p>1. Read all the rules.<br>
+        2. Write the phrase of the day in your notebook: "Starting today, I constantly attract abundance 
+        with my thoughts." Remember it during the day.<br>
+        3. Comment "Day 0 done in the group."</p>`
     },
     
     {
         day: 1,
         introduction: 
-        `<h3>--Introduction--</h3>
-        <p>IMPORTANT: For those who have not joined and tapped in with a “Day 0 done” by tomorrow will 
+        `<p>IMPORTANT: For those who have not joined and tapped in with a “Day 0 done” by tomorrow will 
         be removed from the group.<br>
         You can leave the group if you decide not to continue.<br>
         I highly recommend doing the meditation and the task at the beginning of the day, if possible. 
         It sets the tone and changes the course of the day!</p>`,
         task: 
-        `<h3>--Task--</h3>
-        <p>In your new notebook, make a list of 50 people that have influenced your life.<br>
+        `<p>In your new notebook, make a list of 50 people that have influenced your life.<br>
         They can be both living and already departed people, your relatives, friends, and celebrities, 
         writers and personalities whom you do not necessarily know personally.
         Everyone who has influenced you, and contributed to your growth and development.<br>
@@ -98,19 +92,17 @@ let meditations = [
         Trust in the process!<br>
         Put your phone in airplane mode while doing this so that no one will disturb you.<br>
         Your list may be more than 50 people. But not less!</p>`,
-        phrase: `<h3>--Phrase--</h3><strong>Today I behold the abundance that surrounds me</strong><br>
-        This should also be written in your notebook and remembered during the day as often as possible.`,
+        phrase: `<p><strong>Today I behold the abundance that surrounds me</strong><br>
+        This should also be written in your notebook and remembered during the day as often as possible.</p>`,
         meditation:
-        `<h3>--Meditation--</h3>
-        <p>The meditation can be done before or after the task. It's up to you!<br>
+        `<p>The meditation can be done before or after the task. It's up to you!<br>
         This is the Mantra you will repeat during meditation:<br>
         So Hum<br>
         So Hum</p>`,
         meditationURL:
-        `<h3>--Link to Meditation--</h3>https://youtu.be/en1kIch5KNE`,
+        `<a href="https://youtu.be/en1kIch5KNE">https://youtu.be/en1kIch5KNE</a>`,
         recap:
-        `<h3>--Recap--</h3>
-            <p>1. Meditation: Listen to the audio. Repeat the mantra.<br>
+        `<p>1. Meditation: Listen to the audio. Repeat the mantra.<br>
             2. Write the phrase of the day in your notebook: 
             "Today I behold all the abundance that surrounds me." Remember it during the day.<br>
             3. Complete the assignment in a notebook - make a list of 50 people who have influenced your development.</p>

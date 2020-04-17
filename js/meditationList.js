@@ -20,8 +20,6 @@ function print(message,outputid) {
 
 function listDays(){
 for(let j=0;j<meditations.length;j++){
-  console.log(days);
-
   meditation=meditations[j];
   days+=`<a class="button primary daybutton" id="${meditation.day}" href="#">Day ${meditation.day}</a>`;
 }
@@ -72,11 +70,13 @@ function printDay(selectedDay){
     outputDiv.innerHTML='';
     for (let prop in meditation)
     if (meditation[prop]!=''&&prop!=="day"){
+      let message = `<h3>---${prop.toUpperCase()}---</h3>`;
       div = document.createElement('div');
       div.setAttribute('id',`${prop}${meditation.day}`);
-      div.textContent = meditation[prop];
       outputDiv.appendChild(div);
-      print(meditation[prop],`${prop}${meditation.day}`);
+      message += meditation[prop];
+      message += `<p>Have a great day!</p>`;
+      print(message,`${prop}${meditation.day}`);
     }
 }
 
