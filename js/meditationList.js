@@ -75,7 +75,9 @@ function printDay(selectedDay){
       div.setAttribute('id',`${prop}${meditation.day}`);
       outputDiv.appendChild(div);
       message += meditation[prop];
-      message += `<p>Have a great day!</p>`;
+      if (prop=="recap"){
+      message += `<p>Have a great day!</p>`;}
+
       print(message,`${prop}${meditation.day}`);
     }
 }
