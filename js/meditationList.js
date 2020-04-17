@@ -67,7 +67,7 @@ dayButtons.forEach((btn) => {
 
 function printDay(selectedDay){
   meditation=meditations[selectedDay];
-    outputDiv.innerHTML='';
+    outputDiv.innerHTML=`<h2>Day ${meditation.day}</h2>`;
     for (let prop in meditation)
     if (meditation[prop]!=''&&prop!=="day"){
       let message = `<h3>---${prop.toUpperCase()}---</h3>`;

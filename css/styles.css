@@ -116,6 +116,11 @@ padding-left: 3px;
     border-color: #3ac162;
 }
 
+.daybutton:focus{
+    background-color: #3ac162;
+    border-color: #3ac162;
+}
+
 .btn-copy{
     height:40px;
     width:40px;
