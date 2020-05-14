@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <title>21 Day Challenge, copy/paste tool</title>
+    <link rel="shortcut icon" type="image/png" href="/img/favicon.png" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <link
       rel="stylesheet"
@@ -27,13 +28,23 @@
           <button class="btn-copy" id="btnCopy"></button>
         </div>
       </div>
-      <div class="step box" id="stepThree" value="3">
-        <p>
-          If you want to sign-off with your name at the end of each day, after
-          "Have a nice day!", please fill in your name here:
-        </p>
-        <div>
-          <input type="text" id="leader-name-input" />
+
+      <div class="steps">
+        <div class="step box" id="stepThree" value="3">
+          <p>
+            If you want to sign-off with your name at the end of each day, after
+            "Have a nice day!", please fill in your name here:
+          </p>
+          <div>
+            <input type="text" id="leader-name-input" />
+          </div>
+        </div>
+
+        <div class="step box" id="stepFour" value="4">
+          <div>
+            <input type="checkbox" id="date-checkbox" />
+            <span>Include today's date in title (mm/dd/yyyy)</span>
+          </div>
         </div>
       </div>
 

@@ -12,6 +12,7 @@ let days = "";
 const btnCopy = document.getElementById("btnCopy");
 const outputDiv = document.getElementById("output");
 const leaderNameInput = document.getElementById("leader-name-input");
+const dateBox = document.getElementById("date-checkbox");
 
 function print(message, outputid) {
   let outputElement = document.getElementById(outputid);
@@ -70,29 +71,46 @@ function addListenerDayButtons() {
 function printDay(selectedDay) {
   leaderName = leaderNameInput.value;
   meditation = meditations[selectedDay];
-  outputDiv.innerHTML = `<h2>Day ${meditation.day}</h2>`;
-  for (let prop in meditation)
-    if (meditation[prop] != "" && prop !== "day") {
+  let today = new Date().toLocaleDateString();
+  outputDiv.innerHTML = `<h2 style="width:100%">Day ${meditation.day} ${
+    dateBox.checked == true ? ` - ${today}` : ``
+  }</h2><p>Welcome to day  ${meditation.day}</p>`;
+  for (let prop in meditation) {
+    if ((meditation[prop] != "" && prop !== "day") || prop === "recap") {
       let message = `<h3>---${prop.toUpperCase()}---</h3>`;
-      div = document.createElement("div");
-      div.setAttribute("id", `${prop}${meditation.day}`);
-      outputDiv.appendChild(div);
-      message += meditation[prop];
-      if (prop == "recap") {
-        message += `<p>Have a great day!</p>`;
-        if (leaderName != "") {
-          message += `${leaderName}`;
-        }
+
+      if (prop == "recap" && meditation.recap === "") {
+        message += `<p>After you complete the task, please write “Day ${meditation.day} done.”</p>`;
       }
 
-      print(message, `${prop}${meditation.day}`);
+      if (prop === "meditationURL") {
+        message += `<a href="${meditation.meditationURL}" target="_blank">${meditation.meditationURL}</a>`;
+        div = document.createElement("div");
+        div.setAttribute("id", `${prop}${meditation.day}`);
+        outputDiv.appendChild(div);
+        print(message, `${prop}${meditation.day}`);
+      } else {
+        div = document.createElement("div");
+        div.setAttribute("id", `${prop}${meditation.day}`);
+        outputDiv.appendChild(div);
+        message += meditation[prop];
+        if (prop == "recap") {
+          message += `<p>Have a great day!</p>`;
+          if (leaderName != "") {
+            message += `${leaderName}`;
+          }
+        }
+
+        print(message, `${prop}${meditation.day}`);
+      }
     }
+  }
 }
 
 function buildAllDays() {
   for (let i = 0; i < meditations.length; i++) {
     meditation = meditations[i];
-    message += `<h2>Day ${meditation.day}</h2>`;
+    message += `<h2>Day ${meditation.day}</h2><p>Welcome to day  ${meditation.day}</p>`;
     if (meditation.introduction != "") {
       let introduction = outputDiv.createElement("span");
       introduction.textContent = meditation.introduction;
