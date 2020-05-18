@@ -515,158 +515,158 @@ const med11 = new Meditation(
   ``
 );
 
-const med12 = new Meditation(
-  ``,
-  `<p>
-  
-  TASK
-  
-  </p>`,
-  `<p>
-  
-  "PHRASE"
-  
-  </p>`,
-  `<p>Mantra:<br>
+// const med12 = new Meditation(
+//   ``,
+//   `<p>
 
-            Ram<br>
+//   TASK
 
-            Ram<br>
+//   </p>`,
+//   `<p>
 
-            Ram</p>`,
-  `https://youtu.be/fZyZ2N90uTA`,
-  ``
-);
+//   "PHRASE"
 
-const med13 = new Meditation(
-  ``,
-  `<p>
-  
-  TASK
-  
-  </p>`,
-  `<p>
-  
-  "PHRASE"
-  
-  </p>`,
-  `<p>Mantra:<br>
+//   </p>`,
+//   `<p>Mantra:<br>
 
-            Ram<br>
+//             Ram<br>
 
-            Ram<br>
+//             Ram<br>
 
-            Ram</p>`,
-  `LINK`,
-  ``
-);
-const med14 = new Meditation(
-  ``,
-  `<p>
-  
-  TASK
-  
-  </p>`,
-  `<p>
-  
-  "PHRASE"
-  
-  </p>`,
-  `<p>Mantra:<br>
+//             Ram</p>`,
+//   `https://youtu.be/fZyZ2N90uTA`,
+//   ``
+// );
 
-            Ram<br>
+// const med13 = new Meditation(
+//   ``,
+//   `<p>
 
-            Ram<br>
+//   TASK
 
-            Ram</p>`,
-  `LINK`,
-  ``
-);
-const med15 = new Meditation(
-  ``,
-  `<p>
-  
-  TASK
-  
-  </p>`,
-  `<p>
-  
-  "PHRASE"
-  
-  </p>`,
-  `<p>Mantra:<br>
+//   </p>`,
+//   `<p>
 
-            Ram<br>
+//   "PHRASE"
 
-            Ram<br>
+//   </p>`,
+//   `<p>Mantra:<br>
 
-            Ram</p>`,
-  `LINK`,
-  ``
-);
-const med16 = new Meditation(
-  ``,
-  `<p>
-  
-  TASK
-  
-  </p>`,
-  `<p>
-  
-  "PHRASE"
-  
-  </p>`,
-  `<p>Mantra:<br>
+//             Ram<br>
 
-            Ram<br>
+//             Ram<br>
 
-            Ram<br>
+//             Ram</p>`,
+//   `LINK`,
+//   ``
+// );
+// const med14 = new Meditation(
+//   ``,
+//   `<p>
 
-            Ram</p>`,
-  `LINK`,
-  ``
-);
-const med17 = new Meditation(
-  ``,
-  `<p>
-  
-  TASK
-  
-  </p>`,
-  `<p>
-  
-  "PHRASE"
-  
-  </p>`,
-  `<p>Mantra:<br>
+//   TASK
 
-            Ram<br>
+//   </p>`,
+//   `<p>
 
-            Ram<br>
+//   "PHRASE"
 
-            Ram</p>`,
-  `LINK`,
-  ``
-);
-const med18 = new Meditation(
-  ``,
-  `<p>
-  
-  TASK
-  
-  </p>`,
-  `<p>
-  
-  "PHRASE"
-  
-  </p>`,
-  `<p>Mantra:<br>
+//   </p>`,
+//   `<p>Mantra:<br>
 
-            Ram<br>
+//             Ram<br>
 
-            Ram<br>
+//             Ram<br>
 
-            Ram</p>`,
-  `LINK`,
-  ``
-);
+//             Ram</p>`,
+//   `LINK`,
+//   ``
+// );
+// const med15 = new Meditation(
+//   ``,
+//   `<p>
+
+//   TASK
+
+//   </p>`,
+//   `<p>
+
+//   "PHRASE"
+
+//   </p>`,
+//   `<p>Mantra:<br>
+
+//             Ram<br>
+
+//             Ram<br>
+
+//             Ram</p>`,
+//   `LINK`,
+//   ``
+// );
+// const med16 = new Meditation(
+//   ``,
+//   `<p>
+
+//   TASK
+
+//   </p>`,
+//   `<p>
+
+//   "PHRASE"
+
+//   </p>`,
+//   `<p>Mantra:<br>
+
+//             Ram<br>
+
+//             Ram<br>
+
+//             Ram</p>`,
+//   `LINK`,
+//   ``
+// );
+// const med17 = new Meditation(
+//   ``,
+//   `<p>
+
+//   TASK
+
+//   </p>`,
+//   `<p>
+
+//   "PHRASE"
+
+//   </p>`,
+//   `<p>Mantra:<br>
+
+//             Ram<br>
+
+//             Ram<br>
+
+//             Ram</p>`,
+//   `LINK`,
+//   ``
+// );
+// const med18 = new Meditation(
+//   ``,
+//   `<p>
+
+//   TASK
+
+//   </p>`,
+//   `<p>
+
+//   "PHRASE"
+
+//   </p>`,
+//   `<p>Mantra:<br>
+
+//             Ram<br>
+
+//             Ram<br>
+
+//             Ram</p>`,
+//   `LINK`,
+//   ``
+// );

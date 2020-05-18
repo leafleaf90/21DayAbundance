@@ -113,6 +113,7 @@ header h1 {
 .button.primary {
   background-color: #5fcf80;
   border: solid 2px #5fcf80;
+  min-width: 18%;
 }
 
 .button.primary:hover {
