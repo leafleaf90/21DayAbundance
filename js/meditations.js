@@ -465,7 +465,7 @@ In addition, listen to today's meditation at least 3 times.
 );
 
 const med11 = new Meditation(
-  `Abundance and the Law of Least Effort
+  `<p>Abundance and the Law of Least Effort
 <br><br>
   Message:
   <br><br>
@@ -515,158 +515,513 @@ const med11 = new Meditation(
   ``
 );
 
-// const med12 = new Meditation(
-//   ``,
-//   `<p>
+const med12 = new Meditation(
+  `<p>Abundance and the Law of Intent and Desire
+  <br><br>
+  Attention energizes; intention transforms.
+  <br><br>
+In today's meditation, we will look at the Law of Intent and Desire.
+<br><br>
+Whatever you want or need in life can be programmed in the space “computer." It has unlimited organizing power to work for you, clearly articulating the intention and throwing its seeds in the field of all possibilities.
+<br><br>
+Thus, you will attract the right people, 
+as well as favorable situations and circumstances; which will help you in the manifestation and implementation of 
+your desires.
+<br><br>
+QUESTION N ° 1: What is your highest intention in life?
+<br><br>
+QUESTION N ° 2: What can you do to make this happen? 
+<br><br>
+QUESTION N ° 3: How will this intention best serve you and others?`,
+  `<p>
+  Ask your mom what her biggest pain / disappointment has been in her life. 
+  <br><br>
+  And, what is her dream - and/or great desire that remains unfulfilled?
+  <br><br>
+  Write the answer in your notebook.
+  <br><br>
+  If your mother is no longer with you or you are unable to ask her personally, go into a state of meditation, ask and listen to the answer.  Write it down.
+  </p>`,
+  `<p>
 
-//   TASK
+  "I place my intention into the vast ocean of all possibilities and allow the universe to work through me"
 
-//   </p>`,
-//   `<p>
+  </p>`,
+  `<p>Mantra:<br>
 
-//   "PHRASE"
+  Om Mritham Nama<br>
 
-//   </p>`,
-//   `<p>Mantra:<br>
+  Om Mritham Nama<br>
 
-//             Ram<br>
+  Om Mritham Nama</p>`,
+  `https://youtu.be/fPpNraFtC4A`,
+  ``
+);
 
-//             Ram<br>
+const med13 = new Meditation(
+  `<p>Abundance and the Law of Detachment
+  <br><br>
+  Today we will learn how to abandon a desire to get a certain result.
+  <br><br>
+We will learn the Law of Detachment. 
+<br><br>
+Abundance comes in many forms. As long as you create through desires that benefit the whole world, you can get whatever you want.
+<br><br>
+Symbols of abundance: 
+<br>
+A big house, a new car or elaborate jewelry will bring waves of excitement into your life.  And yet, these symbols may mean sacrificing the ocean for the sake of several transient waves.
+<br>
+Live, overflowing with an abundance of love, passion, creativity and significance, and then these symbols themselves will “chase” you.
+<br><br>
+QUESTION N ° 1: What symbols of abundance do you dream of?
+<br><br>
+QUESTION N ° 2: How could they improve both your life and others?
+<br><br>
+QUESTION N ° 3: How else will such abundance positively affect your life? 
+</p>  `,
+  `<p>
+Think about your mom’s description from Day 11.
+<br><br>
+Consider your life and your patterns of behavior. Do you see some similarities between you and your mom?
+<br><br>
+What are they, how were they formed? 
+<br><br>
+Write these reflections in your notebook.
+<br><br>
+Listen to today's meditation twice in a row.
+  </p>`,
+  `<p>
 
-//             Ram</p>`,
-//   `https://youtu.be/fZyZ2N90uTA`,
-//   ``
-// );
+  "As I let go of the need to arrange my life, the Universe brings abundant goods to me"
 
-// const med13 = new Meditation(
-//   ``,
-//   `<p>
+  </p>`,
+  `<p>Mantra:<br>
 
-//   TASK
+  Om Anadham Nama
+  <br>
 
-//   </p>`,
-//   `<p>
+  Om Anadham Nama
+  <br>
 
-//   "PHRASE"
+  Om Anadham Nama
+  </p>`,
+  `https://youtu.be/wCYQtZeG_kQ`,
+  ``
+);
+const med14 = new Meditation(
+  `<p>Congrats for making it to week 2!
+    <br><br>
+    I know it’s not easy to stay consistent but you’re doing it  and just by showing up means so much.
+    <br><br>
+    We are heading into our last week together.
+    <br><br>
+Abundance and the Law of Dharma
+<br><br>
+Today we are completing the second week of the 21 day meditation program of the Chopra Center - KEY TO ABUNDANCE.
+<br><br>
+Over the past week, we have examined abundance in terms of the principles described in the book, The Seven Spiritual Laws of Success, from the Law of Pure Potentiality to the Dharma Law today.
+<br><br>
+When your life is full of true purpose, your dharma, or abundance, rushes toward you easily and effortlessly.
+<br><br>
+As the saying goes: “Do what you love, the money will be.”
+<br><br>
+It is not only about material wealth, but also about satisfaction, confidence, optimism, joy and abundance! And all of its manifestations that will come to you if you live your true purpose in life.
+<br><br>
+QUESTION N ° 1: What brings you the most joy?
+<br><br>
+QUESTION N ° 2: How do you feel this joy in your everyday life and in your current work?
+<br><br>
+QUESTION N ° 3: How can you approach a life full of joy, by living your Dharma or life's dream?
+  </p>`,
+  `<p>
+  Enjoy this day, noticing the generous gifts of the world that surround us, seek us, and ask us to notice and accept and 
+  give thanks for each of them.
+  <br><br>
 
-//   </p>`,
-//   `<p>Mantra:<br>
+  At the end of the day, write down at least three paths / sources through which abundance has come to you today.
+  <br><br>
 
-//             Ram<br>
+  Even if it was something very small.
+  <br><br>
 
-//             Ram<br>
+  Watch this short video:
+  <br>
+  <a href="https://youtu.be/VVckUjjFYlM">https://youtu.be/VVckUjjFYlM</a>
+  <br><br>
 
-//             Ram</p>`,
-//   `LINK`,
-//   ``
-// );
-// const med14 = new Meditation(
-//   ``,
-//   `<p>
+  Write down 3 cases when you deprived someone of the opportunity to learn his/her lesson.
+  <br><br>
 
-//   TASK
+  Think of examples such as helping a friend, showing your power over children, etc.
+  </p>`,
+  `<p>
 
-//   </p>`,
-//   `<p>
+  "There is a way I can fulfill my true purpose in life"
 
-//   "PHRASE"
+  </p>`,
+  `<p>Mantra:<br>
 
-//   </p>`,
-//   `<p>Mantra:<br>
+  Om Varunam Nama<br>
 
-//             Ram<br>
+  Om Varunam Nama<br>
 
-//             Ram<br>
+  Om Varunam Nama</p>`,
+  `https://youtu.be/SJq9_ndnBFA`,
+  ``
+);
+const med15 = new Meditation(
+  ``,
+  `<p>Write a letter of gratitude and recognition to a person who hurt you at some point in life.
+<br><br>
 
-//             Ram</p>`,
-//   `LINK`,
-//   ``
-// );
-// const med15 = new Meditation(
-//   ``,
-//   `<p>
+  Meditate so that the image of this person comes to you.
+  <br><br>
+  More than one person may appear but today we write a letter to only one.
+  <br><br>
+  Before you sit down to write, cleanse yourself of negative emotions towards this person. If you still have resentment or anger, you can separately write down all these feelings for them on paper and then tear the sheet to shreds.
+  <br><br>
+  It is important not to feel hostility towards a person when you write a letter of thanks to them.
+  <br><br>
+  Write this letter on a piece of paper. Writing by hand for this exercise is important! 
+  </p>`,
+  `<p>
 
-//   TASK
+  “As I live in present moment awareness I live the magic of synchrodestiny”
 
-//   </p>`,
-//   `<p>
+  </p>`,
+  `<p>Mantra:<br>
 
-//   "PHRASE"
+  Aham Bramasmi<br>
 
-//   </p>`,
-//   `<p>Mantra:<br>
+  Aham Bramasmi<br>
 
-//             Ram<br>
+  Aham Bramasmi</p>`,
+  `https://youtu.be/FwpwAsO8clY`,
+  ``
+);
+const med16 = new Meditation(
+  ``,
+  `<p>
 
-//             Ram<br>
+Make a list of things that you wanted to do, but postponed. This could be because of other priorities or because of fear of hurting someone, or failing. Regardless of the reason, these are things that you still plan on doing. 
+<br><br>
+The idea of ​​writing this list is to forgive yourself for everything that you have not done in your life.
+<br><br>
+For each line on your list, write a text of forgiveness based on examples below: 
+<br><br>
+* I, full name, forgive myself absolutely and lovingly for not setting my boundaries
+ <br><br>
+* I, full name, forgive myself absolutely and lovingly that I did not show my vulnerability.
+<br><br>
+* I, full name, forgive myself absolutely and lovingly for not graduating college 
+<br><br>
+Write down everything you want, without limitation.
 
-//             Ram</p>`,
-//   `LINK`,
-//   ``
-// );
-// const med16 = new Meditation(
-//   ``,
-//   `<p>
+  </p>`,
+  `<p>
 
-//   TASK
+  "Today I remember to be grateful"
 
-//   </p>`,
-//   `<p>
+  </p>`,
+  `<p>Mantra:<br>
 
-//   "PHRASE"
+  Om Vardhanam Nama<br>
 
-//   </p>`,
-//   `<p>Mantra:<br>
+  Om Vardhanam Nama<br>
 
-//             Ram<br>
+  Om Vardhanam Nama</p>`,
+  `https://youtu.be/Q_WHq1fH9gI`,
+  ``
+);
+const med17 = new Meditation(
+  `<p>Today we look at how we can live carefree - free from judgment and anxiety, focusing on the joy and perfection of what is right now. 
+  <br><br>
+  By meditating and plunging into the awareness of the present moment, you understand that it is at this moment, everything is perfect and is what it should be.
+  <br><br>
+  And that any problems that you have are transient and temporary.
+  <br><br>
+  You reconnect with your True Self, feeling lighter and free. 
+  <br><br>
+  Throughout life, you will begin to look at everyday circumstances easily and meet surprises calmly and with grace.
+  <br><br>
+  Question N ° 1: How do you feel when you wake up every morning?
+  <br><br>
+  Question N ° 2: How much would your life improve if you lived with a light and carefree heart?
+  <br><br>
+  Question N ° 3: How can you switch your mind to spread the love and joy that you feel in your heart right now?
+  <br><br>
+  This month, I hope you get rich (if you haven’t felt you are rich already)</p>`,
+  `<p>
 
-//             Ram<br>
+Create a list of all the important things you have and all things that make you feel rich
+<br><br>
+Material, spiritual, emotional, etc.
+<br><br>
+For example the physical things that you give you comfort  
+<br><br>
+Internet to be in touch with the world<br><br>
+A job that pays your rent and bills<br><br>
+A home where #stayhome and practicing social distancing is possible <br><br>
+A favorite city that you have the means to visit <br><br>
+<br><br>
+And the things that make you feel rich<br>
+Rich in strength<br>
+Rich in adventure<br>
+Rich in memories<br>
+Rich in knowledge<br>
+Rich in positivity<br>
+Rich in family<br>
+Rich in love<br>
+<br><br>
+There are no high or low limits in the things you can write down. Recognize everything you have that matters to you.
+<strong>Motto:</strong><br>
+I lead my feelings and choose to feel whole, healthy, abundant and blessed.
+  </p>`,
+  `<p>
 
-//             Ram</p>`,
-//   `LINK`,
-//   ``
-// );
-// const med17 = new Meditation(
-//   ``,
-//   `<p>
+  "I move through my days lighthearted and care-free knowing all is wel"
 
-//   TASK
+  </p>`,
+  `<p>Mantra:<br>
 
-//   </p>`,
-//   `<p>
+  Sat Chit Ananda<br>
 
-//   "PHRASE"
+  Sat Chit Ananda<br>
 
-//   </p>`,
-//   `<p>Mantra:<br>
+  Sat Chit Ananda</p>`,
+  `https://youtu.be/-MjFOPF1djk`,
+  ``
+);
+const med18 = new Meditation(
+  `<p>Live in unity
+<br><br>
+  In today's meditation, we talk about unity, as the basic truth of all that exists.
+  <br><br>
+  As individuals, we are not alike.  We have different lifestyles, beliefs and perceptions.
+  <br><br>
+  However, these differences exist only in the physical plane.
+  <br><br>
+  Whereas at the molecular and spiritual level, we are all one and are connected with the universal primary source.
+  <br><br>
+  When we begin to fully understand this concept of life in unity, the idea of ​​a personal “I” gives way to the image of a universal “I”.
+  <br><br>
+  The concept of rivalry and competition disappears. 
+  <br><br>
+  This relationship contributes to deep love and empathy for everyone who surrounds us.
+  <br><br>
+  QUESTION N ° 1: How would you define unity?
+  <br><br>
+  QUESTION N ° 2: What do you think of diversity?
+  <br><br>
+  QUESTION N ° 3: How did meditation help you realize the idea of ​​living in unity?
+  <br><br>
+  Let us always remember:
+  <br>
+  “We all walk each other home”</p>`,
+  `<p>
 
-//             Ram<br>
+Write a letter to your country of origin.  In this letter, express all your feelings about it.
+<br><br>
+Remember that all of your feelings are valid and appropriate. Write everything that arises. 
+<br><br>
+As a reminder, write down the meditation in your notebook and keep it in mind throughout the day. 
+ <br><br>
+Namaste
+  </p>`,
+  `<p>
 
-//             Ram<br>
+  "I celebrate my unity with all life knowing we are all one"
 
-//             Ram</p>`,
-//   `LINK`,
-//   ``
-// );
-// const med18 = new Meditation(
-//   ``,
-//   `<p>
+  </p>`,
+  `<p>Mantra:<br>
 
-//   TASK
+  Tat Tvam Asi<br>
 
-//   </p>`,
-//   `<p>
+  Tat Tvam Asi<br>
 
-//   "PHRASE"
+  Tat Tvam Asi</p>`,
+  `https://youtu.be/TZksQpTzN5c`,
+  ``
+);
 
-//   </p>`,
-//   `<p>Mantra:<br>
+const med19 = new Meditation(
+  ``,
+  `<p>
+  Read the parable below and then write down your thoughts and feelings in your notebook.
+<br><br>
+Today please SHARE in the group - what is does the parable mean to you?
+<br><br>
+<strong>Parable</strong>
+<br>
+“This too shall pass”.
+<br><br>
+There was a king and he once said to the court sages - I have a ring with one of the finest diamonds in the world and I want to hide a message under the stone that can be useful in a situation of extreme despair.  I will give this ring to my heirs and I want it to serve faithfully.  Think of what kind of message will be there.  It must be very short to fit in the ring.
+<br><br>
+The sages knew how to write treatises, but did not express themselves in one short sentence.  They Thought and thought, but did not come up with anything.
+<br><br>
+The king complained about the failure of his venture to a faithful old servant who raised him from infancy and was part of the family.  And the old man said to him:
+<br><br>
+“I’m not a sage, I’m not educated, but I know such a message. For many years spent in the palace, I met a lot of people. And once I served a visiting mystic whom your father invited. And he gave me this message.  I ask that you don’t read it now. Save it under the stone and open it only when there’s no way out at all. The king listened to the old servant.
+<br><br>
+After some time, the enemies attacked the country and the king lost the war.  He fled on his horse and his enemies pursued him.  He was alone, his enemies were many. He rode to the end of the road.  There was a huge deep cliff before him, if he fell there, it is the end.  He could not go back, as the enemies were approaching. He already heard the clatter of their horses' hooves.  He had no way out.  He was in complete despair.
+<br><br>
+And then he remembered the ring.  He opened it and found an inscription: “This too shall pass”
+<br><br>
+After reading the message, he felt that everything was quiet.  Apparently the pursuers got lost and proceeded in the wrong direction. Horses were no longer heard.
+<br><br>
+The king was filled with gratitude to the servant and the unknown mystic. The words were powerful.  He closed the ring.  And set out on the road.  He gathered his army and returned his state.
+<br><br>
+On the day when he returned to the palace, they arranged a magnificent meeting, a feast for the whole world - the people loved their king. The king was happy and proud.
+<br><br>
+An old servant came up to him and said softly: “Even in this moment, look at the message again.”
+<br><br>
+The King said, “Now I am a winner, people are celebrating my return, I'm not in despair, not in a hopeless situation."
+<br><br>
+“Listen to this old servant,” the servant answered. “The message works not only in moments when everything is bad, but also in moments of victory.”
+<br><br>
+The king opened the ring and read:<br>
+"This too shall pass."
+<br><br>
+And again he felt a silence fall over him, although he was in the midst of a noisy dancing crowd.  His pride dissolved.  He understood the message.  He was a wise man.
+<br><br>
+And then the old man said to the king; “Do you remember everything that happened to you? Nothing and no feeling is permanent. As night changes day, so moments of joy and despair replace each other. Accept them as the nature of things, as part of life”
+<br><br>
+Look at the events in your life (both good and not so good) while considering the words of the parable "This too shall pass."
+<br><br>
+Please write here in the group what thoughts and feelings you have about the meaning of the parable.
+<br><br>
+After completing the task, as usual, comment “Day 19 Done”.
+  </p>`,
+  `<p>
 
-//             Ram<br>
+  "Today I remember to love everything and everyone I come into contact with"
 
-//             Ram<br>
+  </p>`,
+  `<p>Mantra:<br>
 
-//             Ram</p>`,
-//   `LINK`,
-//   ``
-// );
+  Sat chit ananda<br>
+
+  Sat chit ananda<br>
+
+  Sat chit ananda</p>`,
+  `https://youtu.be/ExXbICSMJR8`,
+  ``
+);
+
+const med20 = new Meditation(
+  `<p>
+  “Live on the fat of the land.”
+  <br><br>
+Today we look at the concept of luxury, adding to your life something that is much more significant than just a necessity.
+<br><br>
+When you feel that you are worthy to receive all the blessings that the Universe can offer you, your needs are satisfied easily and even more than necessary.  As soon as you learn to accept the grace that has been sent to you, you are showing the universe that you deserve only the best and are ready to receive it.
+<br><br>
+QUESTION N ° 1: How is luxury manifested in your life?
+<br><br>
+QUESTION N ° 2: What luxurious gifts do you present yourself?
+<br><br>
+QUESTION N ° 3: How can you bring luxury to others?
+</p>`,
+  `<p>
+
+  Scroll through your journal, read the tasks you've performed.
+<br><br>
+See if there is something that you missed. Would you like to supplement anything in the light of your new awareness? 
+<br><br>
+After that, think about someone in your life and/or environment who seems to be unhappy or going through a challenging time. This person may complain often and have a generally negative view of life. 
+<br><br>
+It could be someone from the 7th day list or someone else.
+<br><br>
+Share the parable from Day 19 with this person and write down what happens in your journal. 
+<br><br>
+How did you feel sharing the parable  with him / her? What thoughts, associations, sensations arose in the process?
+<br><br>
+Did they answer? Did you talk about it, what did you discuss?
+ <br><br>
+You never know whose life you can impact and shift when you share with them what you’ve learned.
+
+  </p>`,
+  `<p>
+
+  "Today I treat myself to moments of luxury"
+
+  </p>`,
+  `<p>Mantra:<br>
+
+  Om Ritam<br>
+
+  Om Ritam<br>
+
+  Om Ritam</p>`,
+  `https://youtu.be/2H_73TWzQT4`,
+  ``
+);
+
+const med21 = new Meditation(
+  `<p>You guys have been amazing to keep up with the rhythm.<br><br>
+  Here we go for our final day to wrap up everything we have learned so far.
+  <br><br>
+  Are you familiar with the seven “switches” of happiness?
+  <br>
+ *Give to your neighbor<br>
+ *Transmit (love & light)<br>
+ *Let go (of things that do not serve you)<br>
+ *Indulge (live life to the fullest)<br>
+ *Give thanks<br>
+ *Give yourself (be of service)<br>
+ *Forgive<br>
+ <br><br>
+When these seven become part of our life, happiness will flow into it simply and easily.
+<br><br>
+Everything is energy and its flow must be circular and continuous in order to return abundance to us.  This is how the law of reciprocity works.
+<br><br>
+Energy current ↔️ influx/flow ↔️ money/abundance
+<br><br>
+Keep our channels open and clean so that our energy can flow unhindered! Remember to stay present. This is OUR time! 
+<br><br>
+Our future is in our own hands; we make choices and decisions every day, every moment.
+<br><br>
+How we use our  time, with whom we spend it, and how we feel at every moment determines our life.
+<br><br>
+<strong>Key Takeaways:</strong><br>
+ *Awareness<br>
+ *Gratitude<br>
+ *Recognition of value & abundance
+  </p>`,
+  `<p>Post to the group a video of yourself describing your experience of journeying through these 21 days of plenty. Or write a message here if you find it difficult to record a video 
+  <br><br>
+ In the report, say (write):
+ <br><br>
+ - Your name
+ <br>
+ - Where you are from
+ <br>
+ - Yesterday you reflected on your journey up until this point. What were your results? What did you learn/gain from this experience?
+ <br>
+ - Did you like participating in this journey and moving towards abundance in a group stream?
+ <br>
+ - And tell us what you do in life, what you offer or tell us what ideas for projects you have.
+ <br>
+Use all of your creative abilities, describing yourself and your experience. And remember that brevity is the soul of wit.
+  </p>`,
+  `<p>
+
+  "Every moment of every day I live my life abundantly"
+
+  </p>`,
+  `<p>Mantra:<br>
+
+            So Hum<br>
+
+            So Hum<br>
+
+            So Hum</p>`,
+  `https://youtu.be/IW0KuNtW1uU`,
+  `Thank you everyone again for your participation, presence and energy invested in this process! It means so much to me that you joined along on this journey! 
+<br><br>
+So much love and light has been shared amongst the group so let’s continue to lift each other up in a constant limitless flow of abundance onwards and upwards! Please Trust and allow the Divine to work through us as all that is happening is happening FOR US!
+<br><br>
+So happy we were all connected silently through this quest of abundance.
+<br><br>
+WE ARE ABUNDANCE!`
+);
